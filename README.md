@@ -1,3 +1,3 @@
 # JavaScript30
 
-My personal 30 Day Vanilla JS Challenge by Wes Bos
+My personal exercises of **[30 Day Vanilla JS Challenge](https://javascript30.com/)** by [Wes Bos](https://wesbos.com/).
